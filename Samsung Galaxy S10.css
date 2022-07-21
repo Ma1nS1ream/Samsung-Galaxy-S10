@@ -1,0 +1,399 @@
+body {
+background: #E5E5E5;
+}
+header {
+background: #FFFFFF;
+width: 95%;
+margin-top: 2.5%;
+margin-left: 2.5%;
+margin-right: 2.5%;
+height: 60px;
+}
+#MAIN {
+font-size: 160%;
+text-align: center;
+margin-top: 1%;
+margin-bottom: 1%;
+margin-left: 1%;
+}
+#logo1 {
+background-image: url(images/A12.jpg);
+width: 35px;
+height: 35px;
+float: left;
+margin-top: 15px;
+margin-left: 0.85%;
+}
+#logo2 {
+background-image: url(images/A13.png);
+width: 35px;
+height: 35px;
+float: left;
+margin-top: 15px;
+margin-left: 0.85%;
+}		
+h1,h2 {
+margin-left: 7.5%;
+margin-top: 2.5%;
+margin-bottom: 2.5%;
+}	
+#main {
+width: 95%;
+background: #FFFFFF;
+margin-left: 2.5%;
+margin-right: 2.5%;
+padding-top: 0.5%;
+}
+hr {
+width: 87%;
+}	
+#first {
+width: 295px;
+height: 304px;
+float:left;
+background: #171717;
+margin-left: 7.5%;
+margin-bottom: 6.25%;
+}
+#image1 {
+width: 163px;
+height: 113px;
+background-image: url(images/A1.png);
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 15%;
+}	
+#second {
+width: 295px;
+height: 304px;
+float:left;
+margin-left: 7.5%;
+margin-bottom: 6.25%;
+}
+#image2 {
+width: 155px;	
+height: 181px;
+background-image: url(images/A2.png);
+margin-left: 25%;
+margin-right: 25%;
+margin-top: 5%;
+}	
+#third {
+width: 125px;
+height: 310px;
+float:left;
+margin-left: 7.5%;
+}	
+#fourth {
+width: 125px;
+height: 310px;
+float:left;
+margin-left: 6.5%;
+margin-bottom: 6.25%;
+}
+#special2 {
+color: #FFFFFF;
+}	
+p {
+margin-left: 7.5%;
+margin-right: 7.5%;
+}
+#image3 {
+width: 300px;
+height: 159px;
+background-image: url(images/A3.png);
+}	
+#circle1 {
+width: 28px;
+height: 28px;
+margin-left: 25%;
+margin-top: 38%;
+background: linear-gradient(270deg, #BEF0FE 0%, #FFD6D3 100%);
+border-radius: 50px;
+float: left;
+}
+#circle2 {
+width: 28px;
+height: 28px;
+margin-right: 25%;
+margin-top: 38%;
+background: linear-gradient(270deg, #020202 0%, #666666 100%);
+border-radius: 50px;
+float: right;
+}	
+#circle3 {
+width: 28px;
+height: 28px;
+margin-left: 25%;
+float: left;
+background: linear-gradient(270deg, #029965 0%, #66C1A2 100%);
+border-radius: 50px;
+margin-top: 4%;
+margin-bottom: 5%;
+}	
+#circle4 {
+width: 28px;
+height: 28px;
+margin-right: 25%;
+margin-top: 4%;
+background: linear-gradient(270deg, #FAEE61 0%, #FEF694 100%);
+border-radius: 50px;
+float: right;
+margin-bottom: 5%;
+}	
+#image4 {
+background: url(images/A6.jpg);
+width: 60px;
+height: 60px;
+margin-left: 30%;
+margin-right: 30%;
+margin-top: 40%;
+}
+#special3 {
+margin-top: 43.3%;	
+}	
+
+#eighth {
+background: url(images/A4.png);
+width: 300px;
+height: 156px;
+float: left;
+margin-left: 7.5%;
+}
+#nineth {
+background: url(images/A5.png);
+width: 300px;
+height: 156px;
+float: left;
+margin-left: 7.5%;
+}	
+#tenth {
+width: 300px;
+height: 100px;
+float: left;
+margin-left: 7.5%;
+margin-bottom: 5%;
+}
+#eleventh {
+float: left;
+width: 300px;
+height: 125px;
+margin-left: 7.5%;
+margin-bottom: 5%;
+}
+#twelfth {
+float: left;
+width: 300px;
+height: 80px;
+margin-left: 7.5%;
+margin-bottom: 5%;
+}	
+.special1 {
+margin-top: 15%;
+}
+#special {
+margin-top: 4%;
+}	
+#thirteenth {
+width: 303px;
+height: 174px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#fourteenth {
+width: 303px;
+height: 174px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#fifteenth {
+width: 303px;
+height: 174px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#sixteenth {
+width: 303px;
+height: 174px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}
+#seventeenth {
+width: 303px;
+height: 174px;
+margin-left: 3%;
+margin-top: 2%;
+float: left;	
+}	
+#image5 {
+background: url(images/A7.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image6 {
+background: url(images/A8.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image7 {
+background: url(images/A9.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image8 {
+background: url(images/A10.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image9 {
+background: url(images/A11.png);
+width: 60px;
+height: 60px;
+margin-left: 40%;	
+}
+#image10 {
+background: url(images/A14.png);
+width: 60px;
+height: 60px;
+margin-left: 1%;
+margin-top: 25%;
+margin-right: 4%;
+float: left;	
+}
+#image11 {
+background: url(images/A15.jpg);
+width: 60px;
+height: 60px;
+float: left;
+margin-left: 1%;
+margin-top: 25%;
+margin-right: 4%;	
+}
+#image12 {
+background: url(images/A16.png);
+width: 60px;
+height: 60px;
+float: left;
+margin-left: 1%;
+margin-top: 25%;
+margin-right: 4%;
+
+}
+a {
+display: block;
+text-decoration: none;
+}
+.submenu1 {
+padding: 3%;
+text-align: center;
+color: white;
+font-size: 110%;
+}	
+ul {
+list-style: none;
+float: right;
+}
+label{
+position: relative;
+display: block;
+width: 120%;
+height: 120%;
+padding: 80%;
+cursor: pointer;
+background: #FFFFFF;
+float: right;
+margin-top: -70%;
+}
+input[type="checkbox"]{
+opacity: 0
+}      
+.submenu{
+position: absolute;
+left: -510%;
+top: 0;		
+}
+li {
+background: orange;
+border: 1px solid white;
+}
+.topmenu {
+cursor: pointer;
+}
+.topmenu span {
+display: block;
+position: absolute;
+top: 45%;
+left: 20%;
+right: 20%;
+height: 10%;
+background: orange;
+}
+.topmenu span::before,.topmenu span::after {
+position: absolute;
+display: block;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: orange;
+content: "";
+}
+.topmenu span::before {
+top: -280%;
+}
+.topmenu span::after {
+bottom: -280%;
+}
+li:hover {
+background: #FED06D;
+}	
+#sixth,#seventh,#fiffh {
+margin-left: 1%;
+margin-right: 7%;
+margin-top: 1%;
+margin-bottom: 1%;
+}
+#fiffh {
+width: 300px;
+height: 180px;
+float: right;	
+}	
+#sixth {
+width: 300px;
+height: 200px;
+float: right;	
+}		
+#seventh {
+width: 300px;
+height: 200px;
+float: right;
+margin-bottom: 5%;
+}
+#final {
+margin-top: 1%;
+margin-left: 1%;
+text-align: center;
+padding: 3%;	
+}
+#final1 {
+width: 300px;
+height: 200px;
+margin-left: 7.5%;
+margin-top: 1%;
+float: left;	
+}
+.final2 {
+margin-top: 12%;
+text-align: center;	
+}
+#final3 {
+margin-top: 20%;	
+}
+input[type="checkbox"]:checked ~ .submenu{display: block}.submenu{display: none}
